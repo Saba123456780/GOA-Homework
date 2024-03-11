@@ -6,4 +6,5 @@
 name1 = (input(" please enter your name : "))
 name2 = (input(" please enter your last name : "))
 
-print(type(name1 + name2))
+print(type(name1))
+print(type(name2))
