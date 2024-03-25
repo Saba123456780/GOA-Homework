@@ -5,4 +5,4 @@
 
 user_number = int(input("please enter number :"))
 
-print(user_number > 100 and user_number / 9)
+print(user_number > 100 and user_number % 9 == 0)
